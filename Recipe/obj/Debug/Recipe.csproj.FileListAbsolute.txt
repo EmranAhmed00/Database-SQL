@@ -1,0 +1,22 @@
+C:\Users\emran\source\repos\Recipe\Recipe\bin\Debug\Recipe.exe.config
+C:\Users\emran\source\repos\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Users\emran\source\repos\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.Properties.Resources.resources
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.csproj.GenerateResource.cache
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.exe
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.pdb
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.textCategory.resources
+C:\Users\emran\source\repos\Recipe\Recipe\obj\Debug\Recipe.Update.resources
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\bin\Debug\Recipe.exe.config
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\bin\Debug\Recipe.exe
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\bin\Debug\Recipe.pdb
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.csprojAssemblyReference.cache
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.textCategory.resources
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.Properties.Resources.resources
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.Update.resources
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.csproj.GenerateResource.cache
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.csproj.CoreCompileInputs.cache
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.exe
+C:\Users\emran\Desktop\.NET CMS\Database Technic\Assignment\Recipe\Recipe\obj\Debug\Recipe.pdb
